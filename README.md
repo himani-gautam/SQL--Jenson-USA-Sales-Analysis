@@ -37,12 +37,13 @@ This project provides an in-depth analysis of Jenson USA's sales data to uncover
 - 🏷 Pricing patterns help shape competitive pricing strategies.
 
 ## 💡 **Technologies Used**
+- Dataset link :https://drive.google.com/drive/folders/1feFkClnYME7Be3kjmz-TD2PV1uVkXNAN
 - SQL for data querying and manipulation.
 - Data analysis techniques for deriving insights.
 - PowerPoint for presenting findings.
 
 ## 📂 **Files Included**
-- : Presentation containing problem statements, SQL queries, and key insights.
+- https://github.com/himani-gautam/SQL--Jenson-USA-Sales-Analysis/blob/main/Jenson%20USA.pptx: Presentation containing problem statements, SQL queries, and key insights.
 
 
 ## 🤝 **Contributing**
